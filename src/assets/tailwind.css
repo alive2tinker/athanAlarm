@@ -1,0 +1,27 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@layer {
+  .loader {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    position: fixed;
+    background-color: aliceblue !important;
+    z-index: 9999999999;
+  }
+  .shadow-0{
+    box-shadow: 0px 0px 3px #bfbfbf;
+  }
+}
+
+html, body, ion-content{
+    background-color: #fafafa !important;
+}
+
+ion-item{
+  --ion-item-background: !important;
+}
