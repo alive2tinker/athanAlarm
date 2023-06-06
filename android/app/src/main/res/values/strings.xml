@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">athanAlarm</string>
     <string name="title_activity_main">athanAlarm</string>
-    <string name="package_name">io.ionic.starter</string>
-    <string name="custom_url_scheme">io.ionic.starter</string>
+    <string name="package_name">sa.juhd.athanAlarm</string>
+    <string name="custom_url_scheme">sa.juhd.athanAlarm</string>
+    <string name="admob_app_id">ca-app-pub-2662394717663527~8110563659</string>
 </resources>
